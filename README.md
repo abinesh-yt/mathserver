@@ -29,9 +29,11 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 # PROGRAM :
+html
 ```
 <html>
-<body>
+<body style="background: linear-gradient(to left , violet , indigo , blue, green , yellow , orange, red);"">
+    <center>
    <h2>Incandescent Bulb Power Calculator</h2>
    <form method="post">
        {% csrf_token %}
@@ -45,8 +47,10 @@ Publish the website in the given URL.
    </form>
   
        <h3>Power of Lamp Filament = {{ power }} W</h3>
+       </center>
    </body>
 </html>
+
 ```
 
 urls.py
