@@ -85,7 +85,8 @@ def calculate_power(request):
 
 
 # HOMEPAGE:
-<img width="1918" height="936" alt="image" src="https://github.com/user-attachments/assets/223ba4bb-032b-44f7-ae4c-5025220ab58b" />
+<img width="1912" height="985" alt="image" src="https://github.com/user-attachments/assets/c5b5a7b5-55e9-45cd-b37d-fa81f2a1ba9b" />
+
 
 # RESULT:
 The program for performing server side processing is completed successfully.
